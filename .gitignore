@@ -1,0 +1,6 @@
+# Ignore Airflow logs and temporary files
+airflow/logs/
+airflow/tmp/
+
+# Ignore DAGs directory
+dags/
